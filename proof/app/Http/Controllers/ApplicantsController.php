@@ -21,7 +21,7 @@ class ApplicantsController extends Controller
 	}
 
 	public function authenticated(){
-		return redirect('applicants/dashboard');
+		return redirect('postulantes/dashboard');
 	}
 
 	public function secret(){
