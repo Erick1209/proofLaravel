@@ -1,0 +1,16 @@
+h1.centrado{
+	margin-top: -180px !important;
+}
+
+.btn-search{
+	font-size: 12px !important;
+	background-color: #2D6CBF !important;
+}
+
+.form-control{
+	font-size: 14px !important;
+}
+
+input{
+	height: 46px !important;
+}
